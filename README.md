@@ -1,3 +1,7 @@
+# View app at: 
+
+https://movie-app-13.herokuapp.com/
+
 # API
 
 featured: https://api.themoviedb.org/3/discovered/movie?sort_by=popularity.desc&api_key=04c35731a5ee918f01490082a0088b1&page=1
